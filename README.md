@@ -11,10 +11,9 @@ You can use any method you want for the UI of editing the photo.  Make sure to c
 
 Some profile view examples:
 
-![profileView](https://assets.materialup.com/uploads/fa1e16d5-e069-4ba4-b151-57ec3a061ed1/preview.png)
+![profileView](https://cdn.dribbble.com/users/1512076/screenshots/3925649/shot_1.png)
 
-![profileView2](https://assets.materialup.com/uploads/1eacb62c-497c-4f33-a227-179f1dd3db48/preview.png)
+![pView2](https://cdn.dribbble.com/users/163863/screenshots/5576218/800x600.png)
 
-![profileView3](https://cdn.dribbble.com/users/1512076/screenshots/3925649/shot_1.png)
+![pView3](https://cdn.dribbble.com/users/913187/screenshots/4626506/council_profile.png)
 
-![](https://assets.materialup.com/uploads/1eacb62c-497c-4f33-a227-179f1dd3db48/preview.png)
