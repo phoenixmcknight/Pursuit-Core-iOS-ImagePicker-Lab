@@ -1,5 +1,10 @@
 # Pursuit-Core-iOS-ImagePicker-Lab
 
+Standards:
+
+- IOS.3.i: Use UIImagePickerController to take and retrieve images
+
+
 Build an app that has a profile view.  The profile view should have:
 
 - An Image View that displays the user's picture
@@ -16,4 +21,3 @@ Some profile view examples:
 ![pView2](https://cdn.dribbble.com/users/163863/screenshots/5576218/800x600.png)
 
 ![pView3](https://cdn.dribbble.com/users/913187/screenshots/4626506/council_profile.png)
-
