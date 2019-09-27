@@ -1,6 +1,6 @@
 # Pursuit-Core-iOS-ImagePicker-Lab
 
-Standards:
+## Standards:
 
 - IOS.3.i: Use UIImagePickerController to take and retrieve images
 
